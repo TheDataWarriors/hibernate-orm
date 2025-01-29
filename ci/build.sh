@@ -1,5 +1,6 @@
 #! /bin/bash
 
+
 goal=
 if [ "$RDBMS" == "h2" ]; then
   # This is the default.
